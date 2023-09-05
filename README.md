@@ -1,0 +1,2 @@
+- 👋oi eu sou @davimendesferraz
+- 🌱 atualmente estou aprendendo java script
