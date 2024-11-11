@@ -1,7 +1,7 @@
 - 👋oi eu sou @davimendesferraz
 🌱 atualmente estou aprendendo java script
 
-- Tenho 15  anos 
+- Tenho 16  anos 
 
 - estudo na escola cívico militar helena viana sundin em Paranaguá
 
